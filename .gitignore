@@ -1,3 +1,4 @@
 .env
 credentials.txt
 info.txt
+qdrant_storage/
