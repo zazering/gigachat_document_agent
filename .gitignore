@@ -2,3 +2,5 @@
 credentials.txt
 info.txt
 qdrant_storage/
+.idea/
+data/

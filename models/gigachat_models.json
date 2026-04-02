@@ -1,0 +1,89 @@
+{
+  "object": "list",
+  "data": [
+    {
+      "id": "GigaChat",
+      "object": "model",
+      "owned_by": "salutedevices",
+      "type": "chat"
+    },
+    {
+      "id": "GigaChat-2",
+      "object": "model",
+      "owned_by": "salutedevices",
+      "type": "chat"
+    },
+    {
+      "id": "GigaChat-2-Max",
+      "object": "model",
+      "owned_by": "salutedevices",
+      "type": "chat"
+    },
+    {
+      "id": "GigaChat-2-Pro",
+      "object": "model",
+      "owned_by": "salutedevices",
+      "type": "chat"
+    },
+    {
+      "id": "GigaChat-Max",
+      "object": "model",
+      "owned_by": "salutedevices",
+      "type": "chat"
+    },
+    {
+      "id": "GigaChat-Max-preview",
+      "object": "model",
+      "owned_by": "salutedevices",
+      "type": "chat"
+    },
+    {
+      "id": "GigaChat-Plus",
+      "object": "model",
+      "owned_by": "salutedevices",
+      "type": "chat"
+    },
+    {
+      "id": "GigaChat-Pro",
+      "object": "model",
+      "owned_by": "salutedevices",
+      "type": "chat"
+    },
+    {
+      "id": "GigaChat-Pro-preview",
+      "object": "model",
+      "owned_by": "salutedevices",
+      "type": "chat"
+    },
+    {
+      "id": "GigaChat-preview",
+      "object": "model",
+      "owned_by": "salutedevices",
+      "type": "chat"
+    },
+    {
+      "id": "Embeddings",
+      "object": "model",
+      "owned_by": "salutedevices",
+      "type": "embedder"
+    },
+    {
+      "id": "Embeddings-2",
+      "object": "model",
+      "owned_by": "salutedevices",
+      "type": "embedder"
+    },
+    {
+      "id": "EmbeddingsGigaR",
+      "object": "model",
+      "owned_by": "salutedevices",
+      "type": "embedder"
+    },
+    {
+      "id": "GigaEmbeddings-3B-2025-09",
+      "object": "model",
+      "owned_by": "salutedevices",
+      "type": "embedder"
+    }
+  ]
+}
